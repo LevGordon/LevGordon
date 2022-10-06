@@ -1,6 +1,6 @@
 - Hi, I’m @LevGordon
 
-- I’m currently enrolled in an Online Web Development course led by Thinkful. In September, I will be a job-ready full stack web dev.
+- As of October 2022 - I have completed an Online Web Development course led by Thinkful and now may constitute as a job-ready full stack web dev.
 - I’m always open to collaborating on Various Web Development Projects
 
 <!---
