@@ -1,7 +1,9 @@
 - Hi, I’m @LevGordon
 
-- As of October 2022 - I have completed an Online Web Development course led by Thinkful and now may constitute as a job-ready full stack web dev.
-- I’m always open to collaborating on Various Web Development Projects
+- Graduated from Thinkful's Full-Stack Web Development Boot-Camp in october 2022. 
+- Self-Learning ever since.
+
+Feel free to shoot me a message over any concern - lev.gordonsa@gmail.com
 
 <!---
 LevGordon/LevGordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
